@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-I belive i can master the GitHub!!!
+I belive I can master the GitHub!!!
